@@ -1,0 +1,48 @@
+# Miscellaneous
+eye_detection_app/*.class
+eye_detection_app/*.log
+eye_detection_app/*.pyc
+eye_detection_app/*.swp
+eye_detection_app/.DS_Store
+eye_detection_app/.atom/
+eye_detection_app/.build/
+eye_detection_app/.buildlog/
+eye_detection_app/.history
+eye_detection_app/.svn/
+eye_detection_app/.swiftpm/
+eye_detection_app/migrate_working_dir/
+
+# IntelliJ related
+eye_detection_app/*.iml
+eye_detection_app/*.ipr
+eye_detection_app/*.iws
+eye_detection_app/.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+eye_detection_app/**/doc/api/
+eye_detection_app/**/ios/Flutter/.last_build_id
+eye_detection_app/.dart_tool/
+eye_detection_app/.flutter-plugins
+eye_detection_app/.flutter-plugins-dependencies
+eye_detection_app/.pub-cache/
+eye_detection_app/.pub/
+eye_detection_app/build/
+
+# Symbolication related
+eye_detection_app/app.*.symbols
+
+# Obfuscation related
+eye_detection_app/app.*.map.json
+
+# Android Studio will place build artifacts here
+eye_detection_app/android/app/debug
+eye_detection_app/android/app/profile
+eye_detection_app/android/app/release
+
+# AutogluonModels related
+AutogluonModels/
